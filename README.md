@@ -7,15 +7,15 @@ I also write a weekly newsletter for wannabe solopreneurs. Subscribe to [From De
 
 ### Currently working with 🤝
 
-⚔️ [Raid Guild](https://raidguild.org/) <br>
-🏡 [DAOhaus](https://daohaus.club/) <br>
+⚔️  [Raid Guild](https://raidguild.org/) <br>
+🏡  [DAOhaus](https://daohaus.club/) <br>
 
 ### Some stuff I built 👨🏻‍💻
 
-🏠 Decentralized Information Network - [DINhaus](https://dinhaus.github.io) <br>
-🚶🏻‍♀️ Entire frontend of the Meroku protocol - [Meroku](https://meroku.org/) <br>
-🎧 Decentralised music marketplace for artists - [Radiohead](https://radioweb3.vercel.com) <br>
-🧮 Decentralised accounting software - [Ringbook](https://ringbook.vercel.app/) <br>
+🏠  Decentralized Information Network - [DINhaus](https://dinhaus.github.io) <br>
+🚶🏻‍♀️  Entire frontend of the Meroku protocol - [Meroku](https://meroku.org/) <br>
+🎧  Decentralised music marketplace for artists - [Radiohead](https://radioweb3.vercel.com) <br>
+🧮  Decentralised accounting software - [Ringbook](https://ringbook.vercel.app/) <br>
 
 ### Tech I use 🎛️
 
@@ -25,8 +25,8 @@ React, Next.js, Turborepo TailwindCSS, MySQL, MongoDB, OpenAI APIs, Node.js, Doc
 
 ### How to reach me 📫
 
-🐦 [X](https://twitter.com/growindiedev) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/growindiedev) <br>
-📧 [Email](mailto:indiegeekdev@gmail.com) <br>
-💬 Discord: growindiedev
+🐦  [𝕏](https://twitter.com/growindiedev) <br>
+💼  [LinkedIn](https://www.linkedin.com/in/growindiedev) <br>
+📧  [Email](mailto:indiegeekdev@gmail.com) <br>
+💬  Discord: growindiedev
 
