@@ -20,7 +20,7 @@ I also write a weekly newsletter for wannabe solopreneurs. Subscribe to [From De
 ### Tech I use 🎛️
 
 ```javascript
-React, Next.js, Turborepo TailwindCSS, MySQL, MongoDB, OpenAI APIs, Node.js, Docker, Git, GraphQL, TypeScript, Sass, Jest, Solidity, Hardhat, Foundry
+React, Next.js, Turborepo, TailwindCSS, MySQL, MongoDB, OpenAI APIs, Node.js, Docker, Git, GraphQL, TypeScript, Sass, Jest, Solidity, Hardhat, Foundry
 ```
 
 ### How to reach me 📫
