@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey, I'm Abhishek! 👋
 
-<!--
-**growindiedev/growindiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend engineer and an aspiring solopreneur building SASS and Web3 products. <br>
+Learn more [about me](https://theindiedev.vercel.app) or follow me on [𝕏](https://twitter.com/growindiedev). <br>
 
-Here are some ideas to get you started:
+I also write a weekly newsletter for wannabe solopreneurs. Subscribe to [From Dev to Dough](https://theindiedev.beehiiv.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with 🤝
+
+⚔️ [Raid Guild](https://raidguild.org/) <br>
+🏡 [DAOhaus](https://daohaus.club/) <br>
+
+### Some stuff I built 👨🏻‍💻
+
+🏠 Decentralized Information Network - [DINhaus](https://dinhaus.github.io) <br>
+🚶🏻‍♀️ Entire frontend of the Meroku protocol - [Meroku](https://meroku.org/) <br>
+🎧 Decentralised music marketplace for artists - [Radiohead](https://radioweb3.vercel.com) <br>
+🧮 Decentralised accounting software - [Ringbook](https://ringbook.vercel.app/) <br>
+
+### Tech I use 🎛️
+
+```javascript
+React, Next.js, Turborepo TailwindCSS, MySQL, MongoDB, OpenAI APIs, Node.js, Docker, Git, GraphQL, TypeScript, Sass, Jest, Solidity, Hardhat, Foundry
+```
+
+### How to reach me 📫
+
+🐦 [X](https://twitter.com/growindiedev) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/growindiedev) <br>
+📧 [Email](mailto:indiegeekdev@gmail.com) <br>
+💬 Discord: growindiedev
+
