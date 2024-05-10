@@ -1,6 +1,6 @@
 ### Hey, I'm Abhishek! 👋
 
-I'm a Web3 / frontend engineer and an aspiring solopreneur building SASS and Web3 products. <br>
+I'm a Web3 / frontend engineer and an aspiring solopreneur building SAAS and Web3 products. <br>
 Learn more [about me](https://theindiedev.vercel.app) or follow me on [𝕏](https://twitter.com/growindiedev). <br>
 
 I also write a weekly newsletter for wannabe solopreneurs. Subscribe to [From Dev to Dough](https://theindiedev.beehiiv.com)
@@ -28,5 +28,6 @@ React, Next.js, Turborepo, TailwindCSS, MySQL, MongoDB, OpenAI APIs, Node.js, Do
 🐦  [𝕏](https://twitter.com/growindiedev) <br>
 💼  [LinkedIn](https://www.linkedin.com/in/growindiedev) <br>
 📧  [Email](mailto:indiegeekdev@gmail.com) <br>
+🔗  [Site](https://theindiedev.vercel.app) <br>
 💬  Discord: growindiedev
 
